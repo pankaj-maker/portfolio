@@ -368,8 +368,9 @@ section {
 }
 
 .about .about-img .aboutHero {
-  width: 40vw;
+  width: 35vw;
   height: auto;
+  border-radius: 50%;
 }
 
 .about-img .ring {
